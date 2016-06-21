@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[veggy]]></title>
         <description><![CDATA[veggy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/veggy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 20:32:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 12:36:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/veggy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined8ff3195f-d7b8-4d47-a379-8bdc44136610/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efea45f9-7198-4c81-ac3d-5ac6ae6cf8e9.jpg">]]></description>
+            <link>https://thegrid.ai/veggy/8ff3195f-d7b8-4d47-a379-8bdc44136610/index.html</link>
             <guid isPermaLink="false">8ff3195f-d7b8-4d47-a379-8bdc44136610</guid>
-            <pubDate>Sun, 28 Feb 2016 20:32:14 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 12:36:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
