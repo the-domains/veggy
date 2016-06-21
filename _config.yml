@@ -2,6 +2,7 @@ name: veggy
 favicon: null
 layout_spectrum: 0.7299348816741258
 typography_spectrum: 0.1911897857207805
+title: veggy
 cta:
   domain: null
   bucket: null
